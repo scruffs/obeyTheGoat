@@ -39,3 +39,43 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 2017-05-25 08:27:42.429 plugin-container[2611:61210] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a43, name = 'com.apple.CFPasteboardClient'
 See /usr/include/servers/bootstrap_defs.h for the error codes.
 2017-05-25 08:27:42.429 plugin-container[2611:61210] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1495716077487	geckodriver	INFO	Listening on 127.0.0.1:53140
+1495716078535	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1495716081762	Marionette	INFO	Listening on port 53149
+1495716081867	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-25 08:41:22.580 plugin-container[2727:67912] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-25 08:41:22.581 plugin-container[2727:67912] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d27, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-25 08:41:22.581 plugin-container[2727:67912] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1495716129024	geckodriver	INFO	Listening on 127.0.0.1:53240
+1495716130129	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1495716133143	Marionette	INFO	Listening on port 53249
+1495716133369	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-25 08:42:13.961 plugin-container[2741:68963] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x893b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-25 08:42:13.962 plugin-container[2741:68963] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4d07, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-25 08:42:13.962 plugin-container[2741:68963] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1495716719563	geckodriver	INFO	Listening on 127.0.0.1:53446
+1495716720692	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1495716724029	Marionette	INFO	Listening on port 53455
+1495716724196	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-05-25 08:52:05.079 plugin-container[2815:72472] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-25 08:52:05.080 plugin-container[2815:72472] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f07, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-05-25 08:52:05.080 plugin-container[2815:72472] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1495716725480	Marionette	INFO	New connections will no longer be accepted
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
